@@ -1,3 +1,21 @@
-body{
+@charset "utf-8";
 
+*{
+  maegin:0;
+  padding:0;
+}
+
+
+body{
+  background-color: gray;
+}
+header{
+  background-color:orange;
+}
+.box{
+  backgoround-color: red;
+  color: black;
+  width: 240px;
+  margin:5px;
+  float:left;
 }
