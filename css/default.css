@@ -19,3 +19,9 @@ header{
   margin:5px;
   float:left;
 }
+aside{
+  background-color: blue;
+}
+footer{
+  background-color: purple;
+}
